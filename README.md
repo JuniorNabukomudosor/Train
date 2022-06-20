@@ -1,2 +1,2 @@
 # Train
-Training example git
+Training example git proyect
